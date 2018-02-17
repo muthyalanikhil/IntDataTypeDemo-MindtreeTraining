@@ -1,0 +1,10 @@
+D:\Practice\IntDataType\IntDataType\bin\Debug\IntDataType.exe
+D:\Practice\IntDataType\IntDataType\bin\Debug\IntDataType.pdb
+D:\Practice\IntDataType\IntDataType\obj\x86\Debug\IntDataType.exe
+D:\Practice\IntDataType\IntDataType\obj\x86\Debug\IntDataType.pdb
+D:\Projects\Sample Programs\Practice\IntDataType\IntDataType\bin\Debug\IntDataType.exe
+D:\Projects\Sample Programs\Practice\IntDataType\IntDataType\bin\Debug\IntDataType.pdb
+D:\Projects\Sample Programs\Practice\IntDataType\IntDataType\obj\x86\Debug\IntDataType.csprojResolveAssemblyReference.cache
+D:\Projects\Sample Programs\Practice\IntDataType\IntDataType\obj\x86\Debug\IntDataType.csproj.CoreCompileInputs.cache
+D:\Projects\Sample Programs\Practice\IntDataType\IntDataType\obj\x86\Debug\IntDataType.exe
+D:\Projects\Sample Programs\Practice\IntDataType\IntDataType\obj\x86\Debug\IntDataType.pdb
